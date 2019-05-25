@@ -1,0 +1,186 @@
+body {
+  background-color: #292929; }
+  
+  
+.toggle {
+  margin-left: 18px;
+  margin-right: 18px;
+}
+ /* start button start word and eliptical shape */
+.button {
+  border-radius: 80% !important;
+  font-size: 1.3em;
+  background-color: orange;
+  font-family: 'Stylish', sans-serif;
+  color:red;
+}
+ /* start button text "the start word" */
+#switches {
+  position: absolute;
+  font-family: 'Stylish', sans-serif;
+  margin-left: 20px;
+  margin-top: 110px;
+}
+/* count button */
+.text2 {
+  position: absolute;
+  font-family: 'Stylish', sans-serif;
+  margin-left: 88px;
+  margin-top: 200px;
+  color: orange;
+
+
+}
+/* power and strict button */
+.text1 {
+  position: absolute;
+  font-family: 'Stylish', sans-serif;
+  margin-left: 20px;
+  margin-top: 135px;
+  color: orange;
+}
+
+.text1 span:last-child {
+  padding-left: 70px;
+}
+
+
+/* title word of game SIMON SAYS  */
+#title {
+  font-family: 'Stylish', sans-serif;
+  position: absolute;
+  font-size: 28px;
+  margin-left: 45px;
+  margin-top: 30px;
+  margin-bottom:20px;
+  color: orange;
+}
+
+#turn {
+  position: absolute;
+  background: Maroon;
+  color: tomato;
+  font-family: 'Stylish', sans-serif;;
+  font-size: 18px;
+  height: 30px;
+  width: 50px;
+  margin-left: 90px;
+  margin-top: 170px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 30px;
+}
+
+#outer-circle {
+  background:mediumblue ;
+  border-radius: 50%;
+  height: 500px;
+  width: 500px;
+  position: relative;
+  border-style: solid;
+  border-width: 10px;
+  margin: auto;
+  margin-top: 60px;
+  box-shadow: 8px 8px 15px 5px lightslategray;
+}
+
+#tl1 {
+  position: absolute;
+  height: 250px;
+  width: 250px;
+  border-radius: 250px 0 0 0;
+  -moz-border-radius: 250px 0 0 0;
+  -webkit-border-radius: 250px 0 0 0;
+  background: green;
+  top: 50%;
+  left: 50%;
+  margin: -250px 0px 0px -250px;
+  border-style: solid;
+  border-width: 5px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+#tr2 {
+  position: absolute;
+  height: 250px;
+  width: 250px;
+  border-radius: 0 250px 0 0;
+  -moz-border-radius: 0 250px 0 0;
+  -webkit-border-radius: 0 250px 0 0;
+  background: tomato;
+  top: 50%;
+  left: 50%;
+  margin: -250px 0px 0px 0px;
+  border-style: solid;
+  border-width: 5px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+#bl1 {
+  position: absolute;
+  height: 250px;
+  width: 250px;
+  border-radius: 0 0 0 250px;
+  -moz-border-radius: 0 0 0 250px;
+  -webkit-border-radius: 0 0 0 250px;
+  background: yellow;
+  top: 50%;
+  left: 50%;
+  margin: 0px -250px 0px -250px;
+  border-style: solid;
+  border-width: 5px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+#br2 {
+  position: absolute;
+  height: 250px;
+  width: 250px;
+  border-radius: 0 0 250px 0;
+  -moz-border-radius: 0 0 250px 0;
+  -webkit-border-radius: 0 0 250px 0;
+  background: blue;
+  top: 50%;
+  left: 50%;
+  margin: 0px 0px -250px 0px;
+  border-style: solid;
+  border-width: 5px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+#inner-circle {
+  position: absolute;
+  background: red;
+  border-radius: 50%;
+  height: 250px;
+  width: 250px;
+  border-style: solid;
+  border-width: 10px;
+  top: 50%;
+  left: 50%;
+  margin: -125px 0px 0px -125px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+
+.copyright {
+  width: 100%;
+  height: 10px;
+  font-size: 16px;
+  font-family: 'Stylish', sans-serif;
+  color: white;
+  text-align: left;
+  padding-left:30px;
+  padding-bottom:0px;
+  padding-top:-30px;
+}

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Simon Says</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href='https://fonts.googleapis.com/css?family=Original+Surfer&effect=emboss' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="css/style.css"> 
+  <link href="https://fonts.googleapis.com/css?family=Stylish" rel="stylesheet">
+  <link href="images/favicon.ico" rel="icon" type="image/x-icon" />
+
+<!-- sound files -->
+  <audio id="c1">
+  	<source src="https://s3.amazonaws.com/freecodecamp/simonSound1.mp3"></source>
+  </audio>
+  <audio id="c2">
+  	<source src="https://s3.amazonaws.com/freecodecamp/simonSound2.mp3"></source>
+  </audio>
+  <audio id="c3">
+  	<source src="https://s3.amazonaws.com/freecodecamp/simonSound3.mp3"></source>
+  </audio>
+  <audio id="c4">
+  	<source src="https://s3.amazonaws.com/freecodecamp/simonSound4.mp3"></source>
+  </audio>
+  <audio id="Tamba">
+  	<source src="sound/Tamba_112.mp3"></source>
+  </audio>
+  <audio id="Cackle">
+  	<source src="sound/cackle3.mp3"></source>
+  </audio>
+  <audio id="Cymbal">
+  	<source src="sound/cymbal.mp3"></source>
+  </audio>
+
+</head>
+
+<body>
+
+  
+
+  <div id="outer-circle">
+    <div id="tl1"></div>
+    <div id="tr2"></div>
+    <div id="bl1"></div>
+    <div id="br2"></div>
+    <div id="inner-circle">
+      <div id="title" class="font-effect-emboss">SIMON SAYS<hr></div>
+      <div id="switches" class="font-effect-emboss">
+        <input type="checkbox" class="toggle" id="on">
+        <button class="button" id="start">START</button>
+        <input type="checkbox" class="toggle" id="strict">
+      </div>
+      <div class="text1">
+        <span>POWER</span><span>TRICKY</span>
+      </div>
+      <div id="turn"></div>
+      <div class="text2">
+        COUNT
+      </div>
+    </div>
+  </div>
+ 
+  <script  src="js/altsimon.js"></script>
+  
+  <footer>
+    <div class="copyright">
+      © FIONA LEWIS MILESTONE 2|CODE INSTITUTE 2019
+    </div>
+  </footer>
+
+</body>
+</html>

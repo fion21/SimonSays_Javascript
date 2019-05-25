@@ -1,0 +1,15 @@
+      Aim of the game
+      Copy the displayed sounds by tapping the pads. 
+      A new note on the pad is added to the sequence with each round.
+      
+      How to activate
+      Press the START checkbox to start the game and initiate a sequence.
+      Copy the rounds.Successfully complete 5 rounds to win the game and get rewarded with a hip drum tune.
+      
+      Game modes
+      POWER Mode: If you make a mistake, there will be a cackle 
+      of laughter and you can have another go. 
+      If you make a mistake after that then you have lost.           
+      STRICT Mode: If you make a mistake, there will be a "NO!" displayed
+      and a cackle of laughter and you lose the game.
+      
