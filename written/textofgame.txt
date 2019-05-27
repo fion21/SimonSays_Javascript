@@ -10,6 +10,6 @@
       POWER Mode: If you make a mistake, there will be a cackle 
       of laughter and you can have another go. 
       If you make a mistake after that then you have lost.           
-      STRICT Mode: If you make a mistake, there will be a "NO!" displayed
+      STRICT/TRICKY Mode: If you make a mistake, there will be a "NO!" displayed
       and a cackle of laughter and you lose the game.
       
