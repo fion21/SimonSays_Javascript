@@ -93,7 +93,7 @@ To deploy the site to GitHub pages, the following took place
 2. Made a `git status`command, then initialised with a `git init`command.
 3. Added all the files to the Staging area with `git add .`
 4. Used`git commit -m "Initial commit"` to commit the files
-5. Created a new repository in GitHub called '???????????'.
+5. Created a new repository in GitHub called 'new-game-2'.
 6. Added from GitHub into the terminal window of C9:
     `git remote add origin`
     `https://github.com/fion21/new-game-2.git`
