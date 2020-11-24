@@ -131,3 +131,7 @@ I received direction and ideas for this project from my allocated mentor.
 ### Disclaimer
 
 - This project is for educational purposes only.
+
+If this project has helped you and you would like to support my work, here's a cool idea :
+
+<a href="https://www.buymeacoffee.com/fion34"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=fion34&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
