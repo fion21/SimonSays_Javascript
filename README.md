@@ -4,7 +4,6 @@
 ### Site link
 This site has been deployed using GitHub Pages and is available at
 
-https://github.com/fion21/SimonSays_Javascript
 https://fion21.github.io/SimonSays_Javascript
 
 ## Purpose of Project/Scope
